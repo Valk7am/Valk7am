@@ -1,16 +1,33 @@
-## Hi there 👋
+   (╯°□°)╯︵ ┻━┻
+  Trying to build cool things,
+      and maybe understand them later.
 
-<!--
-**Valk7am/Valk7am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Yo, I'm Mahmoud
+  A developer who’s half debugging, half panicking, and 100% vibing with new ideas.
+  I code like I read maps: upside down, squinting, and with coffee stains.
 
-Here are some ideas to get you started:
+💭 Currently:
+  🧠 Breaking things I don’t understand... yet
+  ⚙️ Messing with JavaScript, GSAP, WordPress, scroll weirdness
+  🤹‍♂️ Juggling freelance chaos, side projects, and caffeine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚠️ Note: I don’t "vibe code."
+  I don’t throw stuff at the wall and pray it runs.
+  I build with intent, I debug with precision, and I think before I type.
+  Yes, I use AI tools — but they don’t write my brain.
+  They’re just accelerators, not architects.
+  If you're here expecting copilot-driven spaghetti or feel-good guesswork, you're in the wrong repo.
+
+🛠️ Tools I Fight With:
+  HTML • CSS • JavaScript • jQuery • GSAP • WordPress
+  PHP • Python • Linux • Java • LLAMA • OpenAI Models
+  ...and the occasional what moments
+  
+🪑 Vibes:
+  🗞️ Reading docs like newspapers on the ground
+  💻 Coding while wondering if I should’ve just sold falafel
+  ☕ Coffee + Milk > Everything
+
+📡 Contact?
+  You’ll find me where the website is down and linux server is on fire.
+  Setting things up :)
