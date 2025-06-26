@@ -1,54 +1,54 @@
-(╯°□°）╯︵ ┻━┻  
- Trying to build cool things, and maybe understand them later.
+<!-- README.md -->
+
+# (╯°□°）╯︵ ┻━┻  
+_**Trying to build cool things — understanding comes later (hopefully).**_
 
 ---
 
-## 👋 Yo, I'm Mahmoud
+## 👋 Hey, I’m Mahmoud
 
-A developer who’s **half debugging**, **half panicking**, and **100% vibing with new ideas**.  
-I code like I read maps: upside down, squinting, and with coffee stains.
-
----
-
-## 💭 Currently
-
-- 🧠 Breaking things I don’t understand... yet  
-- ⚙️ Messing with JavaScript, GSAP, WordPress, scroll weirdness  
-- 🤹‍♂️ Juggling freelance chaos, side projects, and caffeine  
+A developer who’s usually **debugging something strange**, **chasing cool ideas**, and **running on caffeine**.  
+I code like I’m solving a maze backwards — with coffee stains on the map and music in the background.
 
 ---
 
-## ⚠️ I Don’t “Vibe Code”
+## 💭 What I’m Up To
 
-> I don’t throw stuff at the wall and pray it runs.  
-> I build with intent, I debug with precision, and I think before I type.  
-> Yes, I use AI tools — but they don’t write my brain.  
-> They’re just accelerators, not architects.  
+- 🧠 Breaking stuff to learn how it works  
+- 🌀 Exploring JavaScript, GSAP, WordPress, and scroll sorcery  
+- 🤹‍♂️ Freelancing, prototyping, and trying not to forget what day it is  
+
+---
+
+## ⚠️ Not a “Vibe Coder”
+
+> I don’t just push buttons and hope for the best.  
+> I build with purpose, debug with intent, and think before I type.  
+> Yes, I use AI tools — they speed me up, but they don’t think for me.  
 >  
-> If you're here expecting copilot-driven spaghetti or feel-good guesswork, you're in the wrong repo.
+> If you’re expecting AI-generated spaghetti, this ain’t it.
 
 ---
 
-## 🛠️ Tools I Fight With
+## 🛠️ Tools I Tinker With
 
 `HTML` • `CSS` • `JavaScript` • `jQuery` • `GSAP` • `WordPress`  
-`PHP` • `Python` • `Linux` • `Java` • `LLAMA` • `OpenAI Models`  
-...and the occasional `what the hell` moment
+`PHP` • `Python` • `Linux` • `Java` • `LLAMA` • `OpenAI APIs`  
++ a healthy dose of **"wait... what?"**
 
 ---
 
-## 🪑 Vibes
+## 🪑 The Vibes
 
-- 🗞️ Reading docs like newspapers on the ground  
-- 💻 Coding while wondering if I should’ve just sold falafel  
-- ☕ Coffee + Milk > Everything  
+- 🗞️ Reading docs like they’re ancient scrolls  
+- 🧠 Coding while wondering if I should’ve just opened a falafel shop  
+- ☕ Strong opinions, stronger coffee (milk mandatory)
 
 ---
 
 ## 📡 Contact?
 
-You’ll find me where the **website is down** and the **Linux server is on fire**.  
-Still setting things up. ☠️
+You’ll probably catch me where something’s broken and the server’s throwing fire.  
+Still piecing things together — but always down to build something cool.
 
 ---
-
